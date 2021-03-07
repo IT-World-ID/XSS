@@ -148,7 +148,6 @@ Berdasarkan sink DOM XSS.
 ## XSS dalam pembungkus javascript dan URI
 
 XSS dengan javascript:
-XSS with javascript:
 
 ```javascript
 javascript:prompt(1)
